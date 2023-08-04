@@ -37,6 +37,7 @@
     width: 120px;
     border: none;
     border-radius: 8px;
+    margin-bottom: 7px;
 }
 .buttonContainer button:hover{
     cursor: pointer;
@@ -44,6 +45,7 @@
     border:1px solid grey;
 }
 .main a{
+   
     color: #4b81d7;
     text-decoration: none;
 }

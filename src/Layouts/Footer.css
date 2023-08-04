@@ -1,0 +1,32 @@
+.footer{
+    width: 100%;
+    height: calc(80%-20%);
+    padding: 0.5rem;
+    margin-top: 118px;
+    margin-bottom: 0;
+    background-color: lightgrey ;
+    border: 0.5px solid grey;
+    display: flex;
+    flex-direction: column;
+}
+.country{
+    width: 100%;
+    color:rgb(79, 78, 78);
+    flex: 50%;   
+}
+.info{
+    width: 100%;
+    flex: 50%;
+}
+.info a{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-wrap: wrap;
+    text-decoration: none;
+    color:rgb(79, 78, 78);
+}
+.info a #first{
+    display: flex;
+    justify-content: space-evenly;
+}
